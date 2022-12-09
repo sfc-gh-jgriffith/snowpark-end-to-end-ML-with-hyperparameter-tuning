@@ -44,7 +44,8 @@ dependencies:
 1.5 Download and install [VS Code](https://code.visualstudio.com/)
 
 1.6 Create `creds.json` file with your Snowflake account and credentials in the following format:
-```{
+```
+{
    "account": "yoursnowflake-account",
    "user": "snowflake_user",
    "role": "snowflake_role",
