@@ -55,6 +55,7 @@ dependencies:
    "warehouse": "snowpark_demo_wh"
 }
 ```
+Use your own database, schema, warehouse, and role or create the ones used above in your own environment.
 
 1.7 Configure the conda environment in VS Code
 
