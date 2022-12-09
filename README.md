@@ -52,7 +52,8 @@ dependencies:
    "database": "snowpark_demo_db",
    "schema": "MEMBERSHIP_MODELING_DEMO",
    "warehouse": "snowpark_demo_wh"
-}```
+}
+```
 
 1.7 Configure the conda environment in VS Code
 
