@@ -69,7 +69,7 @@ Paste in the path to the conda env you copied earlier
 
 ## 2. Create the Sample Dataset into Snowflake
 
-Run the rest of the cells in `01_prepare_environment.ipynb` to ingest data into Snowflake
+Run the rest of the cells in `01_prepare_environment.ipynb` to generate a modeling dataset. 
 
 ## 3. Feature Engineering, ML Training and Model Deployment in Snowflake
 
