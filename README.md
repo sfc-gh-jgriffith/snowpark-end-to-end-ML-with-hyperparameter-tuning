@@ -76,3 +76,8 @@ Run the rest of the cells in `01_prepare_environment.ipynb` to generate a modeli
 ## 3. Feature Engineering, ML Training and Model Deployment in Snowflake
 
 Open and run `02_snowpark_end_to_end_ml.ipynb` notebook.
+
+## 4. Using scikit-learn Pipelines to Simplify our Scoring Pipeline
+Perform all feature encoding and scaling using a scikit-learn pipeline. This will not make use of the distributed processing we get from UDFs or the `preprocessing` module, but simplifies our scoring pipeline. 
+
+Open and run `03_deploy_sklearn_pipeline_as_udf.ipynb` notebook.
